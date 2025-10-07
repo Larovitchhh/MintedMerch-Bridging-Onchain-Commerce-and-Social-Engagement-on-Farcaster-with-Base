@@ -1,0 +1,9 @@
+Mini Apps: The Farcaster Framework
+Mini Apps are embedded web applications built with standard technologies (HTML, CSS, JS) and enhanced by Farcaster’s SDK. They offer:
+
+In-feed Interactivity: Users engage with apps directly from posts or channels.
+Wallet Integration: Ethereum wallets are natively supported for minting, purchasing, or claiming.
+Social Graph Access: Apps can personalize experiences using cast data, reactions, and user profiles.
+Notifications & Retention: Developers can re-engage users with mobile alerts and persistent app states. [miniapps.f...caster.xyz]
+
+MintedMerch uses these capabilities to deliver a frictionless minting experience that feels native to Farcaster.
